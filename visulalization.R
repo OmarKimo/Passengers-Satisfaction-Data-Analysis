@@ -1,6 +1,8 @@
 rm(list=ls())
 
-setwd('E:\\jupiter\\Big Data')
+
+#setwd('E:\\jupiter\\Big Data')       ## Mohamed Directory
+setwd("D:\\Major & Interests\\MyProjects\\BDA-Project") ## Omar Directory
 library(ggplot2)
 
 # 2- Importing the dataset Passenger_satisification_processed.csv into a data frame. 
