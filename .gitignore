@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+~$satisfaction.xlsx
+.ipynb_checkpoints/Big Data Project-checkpoint.ipynb
+Passenger_satisification_processed.csv
+Passenger_satisfaction_processed.csv

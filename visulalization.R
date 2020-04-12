@@ -6,7 +6,7 @@ setwd("D:\\Major & Interests\\MyProjects\\BDA-Project") ## Omar Directory
 library(ggplot2)
 
 # 2- Importing the dataset Passenger_satisification_processed.csv into a data frame. 
-Passenger_Data <- read.csv(file = 'Passenger_satisification_processed.csv')
+Passenger_Data <- read.csv(file = 'Passenger_satisfaction_processed.csv')
 
 dim(Passenger_Data)
 
