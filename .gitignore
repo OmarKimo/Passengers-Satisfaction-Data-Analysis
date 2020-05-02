@@ -38,9 +38,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-Passenger_satisification_processed.csv
-Passenger_satisfaction_processed.csv
-
 # Excel temporary
 ~$*.xls*
 
